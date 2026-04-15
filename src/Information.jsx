@@ -5,18 +5,7 @@ const socialLinks = [
   {
     icon: <FaGithub />,
     name: "GitHub",
-    url: "https://github.com/oliverfelixdev/cylindershowcase",
-  },
-  {
-    icon: <FaInstagram />,
-    name: "Instagram",
-    url: "https://www.instagram.com/oliverfelix.dev",
-  },
-  { icon: <FaXTwitter />, name: "X", url: "https://x.com/oliverfelixdev" },
-  {
-    icon: <FaLinkedin />,
-    name: "LinkedIn",
-    url: "https://www.linkedin.com/in/oliverfelixdev",
+    url: "https://github.com/ofelixfx/",
   },
 ];
 
